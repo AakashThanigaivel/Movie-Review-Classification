@@ -1,4 +1,4 @@
-# Movie-Review-Classification
+# Movie Review Classification
 
 - Building Machine Learning Classification models to classify the movie review texts into two categories (positive and negative) using Natural Language Processing techniques;
 - Preprocessing the text data 
